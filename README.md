@@ -9,7 +9,7 @@ I use [Podman](https://podman.io/) and [Podman Compose](https://github.com/conta
 
 ## Requiremments
 
-An implementation of the [Compose Spec](https://compose-spec.io/) such as [Podman Compose](https://github.com/containers/podman-compose) or [Docker compose}(https://docs.docker.com/compose/).
+An implementation of the [Compose Spec](https://compose-spec.io/) such as [Podman Compose](https://github.com/containers/podman-compose) or [Docker compose](https://docs.docker.com/compose/).
 
 To be able to use DNS names to call the various hosts you have to add the following to your `/etc/hosts`
 
